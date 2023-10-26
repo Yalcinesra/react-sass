@@ -1,0 +1,19 @@
+@import "./scss/button";
+@import "./scss/reset";
+ @import "./scss/variable";
+
+
+ h1{
+    color:$turuncu;
+ }
+
+ h2{
+    color:$yesil;
+ }
+
+ p{
+    color:$kirmizi;
+ }
+ body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ }
